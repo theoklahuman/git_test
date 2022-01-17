@@ -1,0 +1,1 @@
+This is just a simple text I have to enter while pratising how to use Git
